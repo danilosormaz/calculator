@@ -1,0 +1,23 @@
+#display{
+    height:60px;
+    border-radius:3px;
+    font-size:38px;   
+}
+
+.btns{
+    width:100%;
+    text-align:center;
+}
+
+.panel{
+    margin-top:10px;
+}
+
+.padding{
+    padding: 0px 2px 0px 2px;
+}
+
+.b-row{
+    margin:15px 2px 0px 2px;
+}
+
